@@ -5,7 +5,7 @@ The aim of this project was to model the spatiotemporal spread of dolphin morbil
 
 ## Data files
 
-1. '**Historical_strandings_1989-2013.csv**' contains the historical stranding data from 1989 - 2013.
+'**Historical_strandings_1989-2013.csv**' contains the historical stranding data from 1989 - 2013.
     * Stranding data were obtained from the NOAA MMHSRP National Stranding Database (accessed 23 May 2014 and 30 June 2014).
     * Data cover the period 1989 - 2013 and from latitudes 27 - 42 N.
     * "Latitude" represents the latitude band within which the stranding was observed (so latitude 27 corresponds to the band 27 - 28 N etc).
@@ -13,7 +13,7 @@ The aim of this project was to model the spatiotemporal spread of dolphin morbil
 
 <br>
 
-2. '**UME_strandings_2013-2014.csv**' contains the stranding data from the recent UME (2013 - 2014).
+'**UME_strandings_2013-2014.csv**' contains the stranding data from the recent UME (2013 - 2014).
     * Raw data were obtained from the NOAA MMHSRP National Stranding Database (accessed 23 May 2014 and 30 June 2014).
     * Data cover the period 1989 - 2013 and from latitudes 27 - 42 N.
     * Each cell represents the number of common bottlenose dolphin (Tursiops truncatus) strandings observed during the corresponding day (columns) and latitude band.
